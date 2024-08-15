@@ -1,0 +1,1 @@
+ /Volumes/VMachine/My\ Project/Hello-World\ (1)/.dart_tool/flutter_build/f6a7991447fbe2188fa095b7e5a0dc3f/native_assets.yaml: 

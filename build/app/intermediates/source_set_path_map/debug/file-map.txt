@@ -1,0 +1,26 @@
+com.example.helloworld.app-jetified-profileinstaller-1.3.0-0 /Users/anningkyei/.gradle/caches/transforms-3/2728ca641ebd0cc6e688705d89989bc4/transformed/jetified-profileinstaller-1.3.0/res
+com.example.helloworld.app-jetified-window-java-1.0.0-beta04-1 /Users/anningkyei/.gradle/caches/transforms-3/2bd4bcf7edde35867619ac3bea578f90/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.helloworld.app-jetified-startup-runtime-1.1.1-2 /Users/anningkyei/.gradle/caches/transforms-3/37576c685b95b697aaff78fef6378d7c/transformed/jetified-startup-runtime-1.1.1/res
+com.example.helloworld.app-jetified-window-1.0.0-beta04-3 /Users/anningkyei/.gradle/caches/transforms-3/518111e08d93c16bc666f5016f25f03d/transformed/jetified-window-1.0.0-beta04/res
+com.example.helloworld.app-jetified-activity-1.7.2-4 /Users/anningkyei/.gradle/caches/transforms-3/65b928a161761de4b176722b558af81e/transformed/jetified-activity-1.7.2/res
+com.example.helloworld.app-core-1.10.1-5 /Users/anningkyei/.gradle/caches/transforms-3/6ee4246d9abac3f2706798696b169c47/transformed/core-1.10.1/res
+com.example.helloworld.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-6 /Users/anningkyei/.gradle/caches/transforms-3/76287aaa0bd9742b642cba652bf4c2f6/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/res
+com.example.helloworld.app-jetified-annotation-experimental-1.3.0-7 /Users/anningkyei/.gradle/caches/transforms-3/be6fcf85dcecb8bd53c9f90aa92aeba4/transformed/jetified-annotation-experimental-1.3.0/res
+com.example.helloworld.app-lifecycle-livedata-2.6.1-8 /Users/anningkyei/.gradle/caches/transforms-3/c4670b2a2144fdf1b65a7501f904d7f7/transformed/lifecycle-livedata-2.6.1/res
+com.example.helloworld.app-lifecycle-livedata-core-2.6.1-9 /Users/anningkyei/.gradle/caches/transforms-3/c631d97af25141b874f2e3586489b85d/transformed/lifecycle-livedata-core-2.6.1/res
+com.example.helloworld.app-lifecycle-viewmodel-2.6.1-10 /Users/anningkyei/.gradle/caches/transforms-3/cd47789aaa60bb7717f09879a7657d58/transformed/lifecycle-viewmodel-2.6.1/res
+com.example.helloworld.app-lifecycle-runtime-2.6.1-11 /Users/anningkyei/.gradle/caches/transforms-3/d68aabc52de90e9a381f7c0b6eefcc00/transformed/lifecycle-runtime-2.6.1/res
+com.example.helloworld.app-jetified-savedstate-1.2.1-12 /Users/anningkyei/.gradle/caches/transforms-3/d98432f1a8834481ebfc164a23330985/transformed/jetified-savedstate-1.2.1/res
+com.example.helloworld.app-core-runtime-2.2.0-13 /Users/anningkyei/.gradle/caches/transforms-3/e4b828aa5f7a520018d3ce15ef2e5944/transformed/core-runtime-2.2.0/res
+com.example.helloworld.app-jetified-core-ktx-1.10.1-14 /Users/anningkyei/.gradle/caches/transforms-3/fe9414d5ad1470aa57701afb2b2d9577/transformed/jetified-core-ktx-1.10.1/res
+com.example.helloworld.app-debug-15 /Volumes/VMachine/My Project/cocoa-detection-app/android/app/src/debug/res
+com.example.helloworld.app-main-16 /Volumes/VMachine/My Project/cocoa-detection-app/android/app/src/main/res
+com.example.helloworld.app-pngs-17 /Volumes/VMachine/My Project/cocoa-detection-app/build/app/generated/res/pngs/debug
+com.example.helloworld.app-resValues-18 /Volumes/VMachine/My Project/cocoa-detection-app/build/app/generated/res/resValues/debug
+com.example.helloworld.app-rs-19 /Volumes/VMachine/My Project/cocoa-detection-app/build/app/generated/res/rs/debug
+com.example.helloworld.app-mergeDebugResources-20 /Volumes/VMachine/My Project/cocoa-detection-app/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.helloworld.app-mergeDebugResources-21 /Volumes/VMachine/My Project/cocoa-detection-app/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.helloworld.app-merged_res-22 /Volumes/VMachine/My Project/cocoa-detection-app/build/app/intermediates/merged_res/debug
+com.example.helloworld.app-packaged_res-23 /Volumes/VMachine/My Project/cocoa-detection-app/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
+com.example.helloworld.app-packaged_res-24 /Volumes/VMachine/My Project/cocoa-detection-app/build/flutter_tflite/intermediates/packaged_res/debug
+com.example.helloworld.app-packaged_res-25 /Volumes/VMachine/My Project/cocoa-detection-app/build/image_picker_android/intermediates/packaged_res/debug

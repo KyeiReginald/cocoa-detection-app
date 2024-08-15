@@ -1,0 +1,1 @@
+ /Volumes/VMachine/My\ Project/cocoa-detection-app/.dart_tool/flutter_build/f087e20dca342347d85865bd6d79120a/native_assets.yaml: 

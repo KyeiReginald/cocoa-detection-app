@@ -1,0 +1,4 @@
+#Thu Aug 15 11:52:41 GMT 2024
+base.0=/Volumes/VMachine/My Project/cocoa-detection-app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
